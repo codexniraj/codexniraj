@@ -10,6 +10,7 @@
 - 💬 Ask me about **Java, HTML, CSS, JS, SQL, xml, Android Studies, C#.**
 
 - 📫 How to reach me **waniniraj2002@gmail.com**
+- My VIT Official id **niraj.yogesh2020@vitbhopal.ac.in** 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cLMSW7Tb3_Yl26qtsE4NcBUtDaydgShL/view?usp=sharing](https://drive.google.com/file/d/1cLMSW7Tb3_Yl26qtsE4NcBUtDaydgShL/view?usp=sharing)
 
