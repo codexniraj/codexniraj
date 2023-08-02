@@ -4,7 +4,7 @@
 <h3 align="center"> ML Developer</h3> 
 
 - 🔭 I’m currently working on [Blockchain Based Decentralized Cloud Storage System](https://github.com/codexniraj/Blockchain-Based-Decentralized-Cloud-Storage-System)
-
+- I have My Certification of **Amazon Web Service(AWS) Certified Solution Architect **
 - 🌱 I’m currently learning **Blockcain and Machine Learning**
 
 - 💬 Ask me about **Java, HTML, CSS, JS, SQL, xml, Android Studies, C#.**
