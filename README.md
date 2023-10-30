@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **waniniraj2002@gmail.com**
 - My VIT Official id **niraj.yogesh2020@vitbhopal.ac.in** 
-- My Leetcode id **https://leetcode.com/codexniraj/**
+- My Leetcode id **https://leetcode.com/codexjarin/**
 - My Leetcode rank is **2,38,896**
 - my Leetcode Rating is **1629**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cLMSW7Tb3_Yl26qtsE4NcBUtDaydgShL/view?usp=sharing](https://drive.google.com/file/d/1cLMSW7Tb3_Yl26qtsE4NcBUtDaydgShL/view?usp=sharing)
