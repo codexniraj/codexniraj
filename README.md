@@ -3,16 +3,16 @@
 <h3 align="center">A passionate frontend developer from India studying at VIT,Bhopal</h3>
 <h3 align="center"> AWS Certified Solution Architect Associate</h3> 
 
-- 🔭 I’m currently working on [Blockchain Based Decentralized Cloud Storage System](https://github.com/codexniraj/Blockchain-Based-Decentralized-Cloud-Storage-System)
+- 🔭 I’m currently working on [Blockchain Based Decentralized Cloud Storage System](https://github.com/codexniraj/Blockchain-Based-Decentralized-Cloud-Storage-System) and ReactNative
 - I have My Certification of **Amazon Web Service(AWS) Certified Solution Architect **
-- 🌱 I’m currently learning **Blockcain and Machine Learning**
+- 🌱 I’m currently learning **Blockcain,Machine Learning & Reactnative**
 
 - 💬 Ask me about **Java, HTML, CSS, JS, SQL, xml, Android Studies, C#.**
 
 - 📫 How to reach me **waniniraj2002@gmail.com**
 - My VIT Official id **niraj.yogesh2020@vitbhopal.ac.in** 
 - My Leetcode id **https://leetcode.com/codexniraj/**
-- My Leetcode rank is **3,39,705**
+- My Leetcode rank is **2,38,896**
 - my Leetcode Rating is **1629**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cLMSW7Tb3_Yl26qtsE4NcBUtDaydgShL/view?usp=sharing](https://drive.google.com/file/d/1cLMSW7Tb3_Yl26qtsE4NcBUtDaydgShL/view?usp=sharing)
 
