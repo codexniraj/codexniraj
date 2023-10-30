@@ -1,7 +1,7 @@
  
 <h1 align="center">Hi 👋, I'm Niraj Wani</h1>
 <h3 align="center">A passionate frontend developer from India studying at VIT,Bhopal</h3>
-<h3 align="center"> ML Developer</h3> 
+<h3 align="center"> AWS Certified Solution Architect Associate</h3> 
 
 - 🔭 I’m currently working on [Blockchain Based Decentralized Cloud Storage System](https://github.com/codexniraj/Blockchain-Based-Decentralized-Cloud-Storage-System)
 - I have My Certification of **Amazon Web Service(AWS) Certified Solution Architect **
